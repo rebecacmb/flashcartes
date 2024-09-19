@@ -1,0 +1,21 @@
+:root{
+
+--fundo: #FFB6C1
+--cartao-frente:#9400D3
+--cartao-verso:#9370DB
+--branco:#FFFAFA
+--preto:#000000
+--destaque:#FF69B4
+
+}
+
+body{
+
+    background-color: var(--fundo);
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
+
