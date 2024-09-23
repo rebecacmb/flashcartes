@@ -34,7 +34,7 @@ criarCartao (
     
     criarCartao ( 
     'Geografia', 
-    'De que pais é essa bandeira?', 'Coreia do norte') 
+    'De que pais é essa bandeira Google (Noto Color Emoji - Unicode 15.1)?', 'Coreia do norte') 
     
     criarCartao( 'Geografia', 
     'Qual é o menor e maior pais do mundo respectivamente?', 
