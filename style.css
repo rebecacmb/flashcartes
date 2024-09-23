@@ -57,3 +57,8 @@ footer{
     padding: 4rem;
 
 }
+
+.cartao.active .conteudo-cartao{
+    transform: rotateY('180deg');
+
+}
