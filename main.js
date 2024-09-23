@@ -2,9 +2,9 @@ function criarCartao (categoria, pergunta, resposta){
 let container = doument.getElementyByld ('container');
 let cartao = document.createElement('article');
 cartao.className= "cartao"
-cartao.innerHTML =
+cartao.innerHTML =`
 <div class="conteudo-cartao">
-<h3>${cartegoria}</h3>
+<h3>${categoria}</h3>
 <div class="pergunta-cartão">
 <p>${pergunta}</p>
 </div>
@@ -12,7 +12,7 @@ cartao.innerHTML =
 <p>${resposta}</p>
 </div>
 </div>
-
+`
 container.appendChild(cartao);
 
 }
