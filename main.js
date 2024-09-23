@@ -1,5 +1,5 @@
 function criarCartao (categoria, pergunta, resposta){
-let container = doument.getElementyByld ('container');
+let container = document.getElementyByld ('container');
 let cartao = document.createElement('article');
 cartao.className= "cartao"
 cartao.innerHTML =`
