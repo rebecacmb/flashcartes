@@ -47,10 +47,11 @@ footer{
     border: 1px solid var(--destaque);
     position: absolute;
     padding: 0,5rem;
+    margin: 0.6rem;
 }
 
 .conteudo-cartao p{
     margin-top: 1rem;
-    padding: 2rem;
+    padding: 4rem;
 
 }
