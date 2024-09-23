@@ -45,5 +45,8 @@ footer{
 
 .conteudo-cartaoh3{
     border: 1px solid var(--destaque);
-
+    position: absolute;
+    padding: 0,5rem;
 }
+
+
