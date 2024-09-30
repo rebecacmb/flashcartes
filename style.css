@@ -57,15 +57,15 @@ body{
     font-weight: 700;
 
 
-    .resposta-cartao p{
-        color: var(--cartao-verso);
-        font-weight: 700;
-    }
 }
 
 .cartao.active .conteudo-cartao{
     transform: rotateY(180deg);
-
+    
+}
+.resposta-cartao p{
+    color: var(--cartao-verso);
+    font-weight: 700;
 }
 
 .pergunta-cartao,
