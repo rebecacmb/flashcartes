@@ -44,10 +44,10 @@ footer{
     }
 
 .conteudo-cartao{
-background: var(--cartao-frente);
-height: 100%;
-transform-style: preserve-3d;
-transition: transform 300ms ease-in-out;
+    background: var(--cartao-frente);
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 
 }
 .conteudo-cartaoh3{
