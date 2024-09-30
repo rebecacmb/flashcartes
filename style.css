@@ -81,6 +81,7 @@ body{
     transform:rotateY(180deg);
     background-color: var(--destaque);
     border: 4px solid var(--cartao-verso);
+    color: var(--preto);
 }
 
 
