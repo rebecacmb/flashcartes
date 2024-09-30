@@ -42,7 +42,13 @@ footer{
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
     }
+.conteudo-cartao{
+background: var(--cartao-frente);
+height: 100%;
+transform-style: preserve-3d;
+transition: transform 300ms ease-in-out;
 
+}
 .conteudo-cartaoh3{
     border: 1px solid var(--destaque);
     position: absolute;
@@ -56,9 +62,23 @@ footer{
     margin-top: 1rem;
     padding: 4rem;
 
+
+    .resposta-cartao p{
+        color: var(--cartao-verso);
+        font-weight: 700;
+    }
 }
 
 .cartao.active .conteudo-cartao{
     transform: rotateY('180deg');
 
+}
+
+.pergunta-cartao,
+.pergunta-cartao{
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
 }
