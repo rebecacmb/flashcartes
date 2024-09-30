@@ -42,7 +42,7 @@ footer{
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
     }
-    
+
 .conteudo-cartao{
 background: var(--cartao-frente);
 height: 100%;
@@ -71,7 +71,7 @@ transition: transform 300ms ease-in-out;
 }
 
 .cartao.active .conteudo-cartao{
-    transform: rotateY('180deg');
+    transform: rotateY(180deg);
 
 }
 
