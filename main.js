@@ -1,23 +1,26 @@
 function criarCartao (categoria, pergunta, resposta){
-let container = document.getElementById ('container');
-let cartao = document.createElement('article');
-cartao.className= "cartao"
-cartao.innerHTML =`
-<div class="conteudo-cartao">
-<h3>${categoria}</h3>
+    let container = document.getElementById ('container');
+    let cartao = document.createElement('article');
+    cartao.className= "cartao"
+    cartao.innerHTML =`
+    <div class="conteudo-cartao">
+    <h3>${categoria}</h3>
+
 <div class="pergunta-cartão">
-<p>${pergunta}</p>
+    <p>${pergunta}</p>
 </div>
+
 <div class="resposta-cartao"> 
-<p>${resposta}</p>
+    <p>${resposta}</p>
+
 </div>
 </div>
 `
 
 let respostaVisivel=false
 function viraCartao(){
-respostaVisivel= !respostaVisivel;
-cartao.classList.toggle('active',respostaVisivel);
+    respostaVisivel= !respostaVisivel;
+    cartao.classList.toggle('active',respostaVisivel);
 
 }
     cartao.addEventListener('click', viraCartao);
