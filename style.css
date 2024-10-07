@@ -49,7 +49,7 @@ body{
     backface-visibility: hidden;
 }
 
-.pergunta-cartao p{
+.pergunta-cartão p{
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
@@ -69,7 +69,7 @@ body{
     color: var(--preto);
 }
 
-.pergunta-cartao,
+.pergunta-cartão,
 .resposta-cartao{
     backface-visibility: hidden;
     position: absolute;
