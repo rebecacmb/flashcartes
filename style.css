@@ -38,7 +38,7 @@ body{
     transition: transform 300ms ease-in-out;
 
 }
-.conteudo-cartaoh3{
+.conteudo-cartao h3{
     color: var(--fundo);
     background-color: var(--cartao-verso);
     border: 4px solid var(--cartao-verso);
@@ -49,7 +49,7 @@ body{
     backface-visibility: hidden;
 }
 
-.conteudo-cartao p{
+.pergunta-cartao p{
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
