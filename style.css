@@ -66,7 +66,9 @@ body{
 .resposta-cartao p{
     color: var(--cartao-verso);
     font-weight: 700;
-    color: var(--preto);
+    color: var(--preto);padding: 2rem;
+    margin-top: 4rem;
+    font-size: 1.5vw;
 }
 
 .pergunta-cartão,
