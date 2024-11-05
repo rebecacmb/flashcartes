@@ -1,96 +1,97 @@
 criarCartao ( 
-    'Matemática', 
-    'Qual quadrante sempre será negativo, tanto seno, quanto cosseno?', 
-    'O 3° quadrante') 
+    'HTML', 
+    'O que é um elemento HTML?', 
+    ' Um elemento HTML é uma unidade de conteúdo ou marcação, como uma tag que define um parágrafo, imagem ou link.') 
     
     criarCartao ( 
-    'Matemática', 
-    'O que é um número primo?', 
-    'Um numero que não pode ser formado pela multiplicação de outros números') 
+    'HTML', 
+    'Como se cria um link em HTML?', 
+    'Usando a tag <a>, como no exemplo: <a href="https://www.exemplo.com">Clique aqui</a>.') 
     
     criarCartao ( 
-    'Fisica', 
-    'Qual é a formula da energia cinética?', 
-    'Ec= mv2/2') 
+    'HTML', 
+    'O que é a tag <head> no HTML?', 
+    'A tag <head> contém informações sobre o documento, como metadados, links para arquivos CSS e scripts.') 
     
     criarCartao( 
-    'História', 
-    'Em que ano começou a primeira guerra mundial?', 
-    '1914') 
+    'HTML', 
+    'O que faz a tag <div> no HTML?', 
+    'A tag <div> é um contêiner genérico usado para agrupar elementos e aplicar estilos com CSS ou manipulação com JavaScript.') 
     
     criarCartao( 
-    'História', 
-    'Quem foi o primeiro presidente do brasil?', 
-    'Marechal Deodoro da fonseca') 
+    'HTML', 
+    'Como você cria uma lista não ordenada em HTML?', 
+    ' Usando a tag <ul> para a lista e <li> para os itens da lista. Exemplo') 
     
     criarCartao ( 
-    'História', 
-    'Quando ocorreu o golpe militar brasileiro?', 
-    '1964') 
+    'HTML', 
+    'O que são "atributos" em HTML?', 
+    'Atributos fornecem informações adicionais sobre os elementos HTML. Exemplos incluem id, class, href, src, etc.') 
     
-    criarCartao ( 'Geografia', 
-    'Qual a capital da Nicarágua?', 
-    'Managuá') 
+    criarCartao ( 'HTML', 
+    'O que faz a tag <form> em HTML?', 
+    ' A tag <form> é usada para criar formulários de entrada de dados do usuário.') 
     
     criarCartao ( 
-    'Geografia', 
-    'Qual a capital da Nova Zelandia ?', 'Wellington') 
+    'HTML', 
+    'Qual a diferença entre as tags <strong> e <em>?',
+    ' A tag <strong> é usada para indicar ênfase forte (texto em negrito), enquanto <em> é usada para ênfase suave (texto em itálico).') 
     
-    criarCartao( 'Geografia', 
-    'Qual é o menor e maior pais do mundo respectivamente?', 
-    'Vaticano e Rússia') 
-    
-    criarCartao( 
-    'Geografia', 
-    'Qual é o relevo predominante no brasil?',
-    'Planaltos') 
+    criarCartao( 'HTML', 
+    'Como você insere uma imagem em uma página HTML?', 
+    'Usando a tag <img> com o atributo src para especificar o caminho da imagem.') 
     
     criarCartao( 
-    'Biologia', 
-    'Quais são as fases da meiose?', 
-    'Prófase, metástase, anáfase e telófase') 
+    'CSS', 
+    'O que significa CSS?',
+    'CSS significa "Cascading Style Sheets" (Folhas de Estilo em Cascata) e é usado para estilizar documentos HTML.') 
     
     criarCartao( 
-    'Biologia', 
-    'Como a malária é transmitida?', 
-    'Pela picada da fêmea do mosquito Anopheles') 
+    'CSS', 
+    'Como você muda a cor de fundo de uma página com CSS?', 
+    'Usando a propriedade background-color. Exemplo:') 
     
     criarCartao( 
-    'História', 
-    'O que foi a política do café com leite ?',
-    'Politica que permitiu a burguesia cafeeira de controlar a política monetária e câmbial') 
+    'CSS', 
+    'O que faz a propriedade display: none; em CSS?', 
+    'Ela oculta completamente um elemento na página, fazendo com que ele não ocupe espaço.') 
     
     criarCartao( 
-    'Literatura', 
-    'Qual o autor do livro dom casmurro?',
-    'Machado de assis') 
+    'CSS', 
+    'Como você alinha texto ao centro com CSS?',
+    'Usando a propriedade text-align.') 
     
     criarCartao( 
-    'Fisica', 
-    'O que é o efeito fotoelétrico?', 
-    'É um fenômeno quantico que consiste na emissão de elétrons por algum metal que é Iluminado por radiação eletromagnética') 
+    'CSS', 
+    'Qual é a função da propriedade float no CSS?',
+    'Usando a propriedade text-align. ') 
     
     criarCartao( 
-    'Geografia', 
-    'O que é chuva ácida?', 
-    'É uma consequência da poluição da atmosfera') 
+    'HTML', 
+    'O que significa HTML?', 
+    'HTML significa "HyperText Markup Language" (Linguagem de Marcação de Hipertexto) e é usado para estruturar conteúdo na web.') 
     
     criarCartao( 
-    'Artes',
-    'Quem é o autor da obra noite estrelada?', 
-    'Van Gogh') 
+    'CSS', 
+    'Qual é a função da propriedade float no CSS?', 
+    'A propriedade float é usada para posicionar um elemento à esquerda ou à direita dentro de seu contêiner, permitindo que o conteúdo ao redor flua ao seu redor.') 
     
     criarCartao( 
-    'Química', 
-    'Quem disse a frase "Na naturezanada se perde, nada se cria tudo se transforma?', 
-    'Antoine Lavoiser') 
+    'CSS',
+    'O que é o modelo de caixa (box model) no CSS?', 
+    ' O modelo de caixa é a forma como o CSS calcula o espaço de um elemento. Ele inclui as margens, bordas, preenchimento e o conteúdo do elemento.') 
     
     criarCartao( 
-    'Quimica', 
-    'Radiação com alto poder de penetração?', 
-    'Gama') 
+    'CSS', 
+    'O que é o flexbox no CSS?', 
+    'O flexbox é um modelo de layout que permite organizar itens dentro de um contêiner de forma flexível, ajustando-se automaticamente ao espaço disponível.') 
     
     criarCartao( 
-     'Educação fisica', 
-     'Onde surgiu os jogos olímpicos?', 
-     'Atenas, Grécia') 
+    'CSS', 
+    'Como você altera a cor de um texto usando CSS?', 
+    'Usando a propriedade color.') 
+    
+    criarCartao( 
+     'CSS', 
+     'O que faz a propriedade position no CSS?', 
+     'A propriedade position controla o posicionamento de um elemento na página, podendo ter valores como static, relative, absolute e fixed.') 
