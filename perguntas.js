@@ -6,22 +6,22 @@ criarCartao (
     criarCartao ( 
     'HTML', 
     'Como se cria um link em HTML?', 
-    'Usando a tag <a>, como no exemplo: <a href="https://www.exemplo.com">Clique aqui</a>.') 
+    'Usando a tag a') 
     
     criarCartao ( 
     'HTML', 
-    'O que é a tag <head> no HTML?', 
-    'A tag <head> contém informações sobre o documento, como metadados, links para arquivos CSS e scripts.') 
+    'O que é a tag head no HTML?', 
+    'A tag head contém informações sobre o documento, como metadados, links para arquivos CSS e scripts.') 
     
     criarCartao( 
     'HTML', 
-    'O que faz a tag <div> no HTML?', 
-    'A tag <div> é um contêiner genérico usado para agrupar elementos e aplicar estilos com CSS ou manipulação com JavaScript.') 
+    'O que faz a tag div no HTML?', 
+    'A tag div é um contêiner genérico usado para agrupar elementos e aplicar estilos com CSS ou manipulação com JavaScript.') 
     
     criarCartao( 
     'HTML', 
     'Como você cria uma lista não ordenada em HTML?', 
-    ' Usando a tag <ul> para a lista e <li> para os itens da lista. Exemplo') 
+    ' Usando a tag ul para a lista e li para os itens da lista. Exemplo') 
     
     criarCartao ( 
     'HTML', 
@@ -29,17 +29,17 @@ criarCartao (
     'Atributos fornecem informações adicionais sobre os elementos HTML. Exemplos incluem id, class, href, src, etc.') 
     
     criarCartao ( 'HTML', 
-    'O que faz a tag <form> em HTML?', 
-    ' A tag <form> é usada para criar formulários de entrada de dados do usuário.') 
+    'O que faz a tag form em HTML?', 
+    ' A tag form é usada para criar formulários de entrada de dados do usuário.') 
     
     criarCartao ( 
     'HTML', 
-    'Qual a diferença entre as tags <strong> e <em>?',
-    ' A tag <strong> é usada para indicar ênfase forte (texto em negrito), enquanto <em> é usada para ênfase suave (texto em itálico).') 
+    'Qual a diferença entre as tags strong e em?',
+    ' A tag strong é usada para indicar ênfase forte (texto em negrito), enquanto em é usada para ênfase suave (texto em itálico).') 
     
     criarCartao( 'HTML', 
     'Como você insere uma imagem em uma página HTML?', 
-    'Usando a tag <img> com o atributo src para especificar o caminho da imagem.') 
+    'Usando a tag img com o atributo src para especificar o caminho da imagem.') 
     
     criarCartao( 
     'CSS', 
