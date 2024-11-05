@@ -49,7 +49,7 @@ criarCartao (
     criarCartao( 
     'CSS', 
     'Como você muda a cor de fundo de uma página com CSS?', 
-    'Usando a propriedade background-color. Exemplo:') 
+    'Usando a propriedade background-color.') 
     
     criarCartao( 
     'CSS', 
